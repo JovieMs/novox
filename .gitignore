@@ -1,0 +1,16 @@
+*.pot
+*.pyc
+*.sublime-project
+*.sublime-workspace
+vcs.xml
+dataSources.xml
+.DS_Store
+workspace.xml
+.idea
+htmlcov
+.coverage
+prod
+virtenv
+*.pem
+.coverage
+htmlcov
